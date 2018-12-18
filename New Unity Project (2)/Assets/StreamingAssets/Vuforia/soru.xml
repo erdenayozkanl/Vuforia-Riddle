@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sogan" size="5.000000 3.166815" />
+    <ImageTarget name="seker" size="5.000000 2.833630" />
+    <ImageTarget name="sarimsak" size="5.000000 3.814628" />
+    <ImageTarget name="pulbiber" size="5.000000 3.531250" />
+    <ImageTarget name="pirinc" size="5.000000 3.553571" />
+    <ImageTarget name="patlican" size="5.000000 3.921320" />
+    <ImageTarget name="kaymak" size="5.000000 3.558639" />
+    <ImageTarget name="fistik" size="5.000000 3.541481" />
+    <ImageTarget name="et" size="5.000000 3.498671" />
+    <ImageTarget name="domates" size="5.000000 3.534406" />
+  </Tracking>
+</QCARConfig>
